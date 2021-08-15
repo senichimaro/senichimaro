@@ -66,6 +66,12 @@
 ![willianrod's wakatime stats](https://github-readme-stats-flame-three.vercel.app/api/wakatime?username=senichi&theme=gotham&count_private=true)
 
 
+# Activity Stats
+<br />
+<br />
+
+<!--START_SECTION:activity-->
+
 
 
 
