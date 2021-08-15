@@ -8,6 +8,8 @@
 <br />
 
 
+# Tech Stack
+
 
 ### Technologies I Love
 <img align="left" height="32" width="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
@@ -15,8 +17,6 @@
 <img align="left" height="32" width="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
 <img align="left" style="border-radius:25px;" height="32" width="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/express/express.png" />
 
-
-<br />
 <br />
 <br />
 
@@ -24,7 +24,8 @@
 <img align="left" style="border-radius:25px;" height="32" width="32" src="https://avatars.githubusercontent.com/u/1529926?s=200&v=4" />
 <img align="left" style="border-radius:25px;" height="32" width="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/redux/redux.png" />
 
-<img align="left" style="border-radius:25px;" height="32" width="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongoose/mongoose.png" />
+<img align="left" style="border-radius:25px;" height="32" width="32" src="https://avatars.githubusercontent.com/u/9338635?s=200&v=4" />
+<img align="left" style="border-radius:25px;background:#fff;" height="32" width="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongoose/mongoose.png" />
 
 <img align="left" style="border-radius:25px;" height="32" width="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
 <img align="left" style="border-radius:25px;" height="32" width="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/django/django.png" />
