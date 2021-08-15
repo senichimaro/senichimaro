@@ -45,16 +45,25 @@
 <img align="left" style="border-radius:25px;" height="32" width="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/angular/angular.png" />
 
 
+<br />
+<br />
+<br />
+<br />
 
 
+# Coding Stats
+<br />
+<br />
 
 
+![Senichi GitHub stats](https://github-readme-stats-flame-three.vercel.app/api?username=senichimaro&show_icons=true&theme=algolia&count_private=true)
+
+<br />
+
+![Top Langs](https://github-readme-stats-flame-three.vercel.app/api/top-langs/?username=senichimaro&layout=compact&theme=gotham&count_private=true)
 
 
-![Senichi GitHub stats](https://github-readme-stats-flame-three.vercel.app/api?username=senichimaro&show_icons=true&theme=radical)
-
-
-
+![willianrod's wakatime stats](https://github-readme-stats-flame-three.vercel.app/api/wakatime?username=senichi&theme=gotham&count_private=true)
 
 
 
