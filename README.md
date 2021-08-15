@@ -51,6 +51,7 @@
 
 
 
+![Senichi GitHub stats](https://github-readme-stats-flame-three.vercel.app/api?username=senichimaro&show_icons=true&theme=radical)
 
 
 
