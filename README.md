@@ -67,8 +67,6 @@
 
 
 # Activity Stats
-<br />
-<br />
 
 <!--START_SECTION:activity-->
 
