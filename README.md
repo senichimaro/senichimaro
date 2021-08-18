@@ -69,7 +69,7 @@
 # Activity Stats
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#1](https://github.com/senichimaro/studio/pull/1) in [senichimaro/studio](https://github.com/senichimaro/studio)
+1. 🎉 Merged PR [#1](https://github.com/senichimaro/studio/pull/1) in [senichimaro/studio](https://github.com/senichimaro/studio)
 <!--END_SECTION:activity-->
 
 
