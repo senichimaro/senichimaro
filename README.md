@@ -63,7 +63,7 @@
 ![Top Langs](https://github-readme-stats-flame-three.vercel.app/api/top-langs/?username=senichimaro&layout=compact&theme=gotham&count_private=true)
 
 
-![willianrod's wakatime stats](https://github-readme-stats-flame-three.vercel.app/api/wakatime?username=senichi&theme=gotham&count_private=true)
+![willianrod's wakatime stats](https://github-readme-stats-flame-three.vercel.app/api/wakatime?senichi&theme=gotham&count_private=true)
 
 
 # Activity Stats
