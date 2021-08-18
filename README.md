@@ -69,7 +69,7 @@
 # Activity Stats
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#1](https://github.com/senichimaro/senichimaro/pull/1) in [senichimaro/senichimaro](https://github.com/senichimaro/senichimaro)
+1. ❌ Closed PR [#1](https://github.com/senichimaro/senichimaro/pull/1) in [senichimaro/senichimaro](https://github.com/senichimaro/senichimaro)
 <!--END_SECTION:activity-->
 
 
