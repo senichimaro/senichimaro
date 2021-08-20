@@ -70,7 +70,7 @@
 # Activity Stats
 
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#1](https://github.com/senichimaro/senichimaro/pull/1) in [senichimaro/senichimaro](https://github.com/senichimaro/senichimaro)
+1. 🎉 Merged PR [#2](https://github.com/senichimaro/studio/pull/2) in [senichimaro/studio](https://github.com/senichimaro/studio)
 <!--END_SECTION:activity-->
 
 
