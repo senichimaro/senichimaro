@@ -70,7 +70,7 @@
 # Activity Stats
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1](https://github.com/senichimaro/mern-melon/pull/1) in [senichimaro/mern-melon](https://github.com/senichimaro/mern-melon)
+1. ❗️ Opened issue [#27](https://github.com/kevin-wynn/reactjs-express-generator/issues/27) in [kevin-wynn/reactjs-express-generator](https://github.com/kevin-wynn/reactjs-express-generator)
 <!--END_SECTION:activity-->
 
 
