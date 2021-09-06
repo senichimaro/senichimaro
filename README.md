@@ -1,7 +1,8 @@
 - Hi 😃 I’m Senichi
-- MERN is my passion 👨‍💻
+- React is my passion 👨‍💻
 - 👨🏽‍🚀 MERN kata daily ‍🚀 to level up my super powers 🛸
-- 📡 I’m looking to collaborate on MERN/Open Source Projects 💾
+- 📡 I’m looking to collaborate on React/Open Source Projects 💾
+- 📭 @senichimaro (twitter)
 <!-- - 📫 How to reach me github message -->
 
 
