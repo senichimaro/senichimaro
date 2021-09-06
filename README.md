@@ -80,7 +80,7 @@
 # Activity Stats
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#2](https://github.com/senichimaro/studio/pull/2) in [senichimaro/studio](https://github.com/senichimaro/studio)
+1. ❗️ Opened issue [#27](https://github.com/kevin-wynn/reactjs-express-generator/issues/27) in [kevin-wynn/reactjs-express-generator](https://github.com/kevin-wynn/reactjs-express-generator)
 <!--END_SECTION:activity-->
 
 
