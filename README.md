@@ -21,6 +21,7 @@
 <img align="left" style="border-radius:25px;" height="32" width="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/redux/redux.png" />
 <img align="left" style="border-radius:25px;background:#fff;" height="32" width="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongoose/mongoose.png" />
 <img align="left" style="border-radius:25px;background:#fff;" height="32" width="32" src="https://avatars.githubusercontent.com/u/53986236?s=200&v=4" />
+<img align="left" style="border-radius:25px;background:#fff;" height="32" width="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" />
 
 <br />
 <br />
