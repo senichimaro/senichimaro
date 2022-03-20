@@ -82,7 +82,7 @@
 # Activity Stats
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#27](https://github.com/kevin-wynn/reactjs-express-generator/issues/27) in [kevin-wynn/reactjs-express-generator](https://github.com/kevin-wynn/reactjs-express-generator)
+1. 🎉 Merged PR [#4](https://github.com/senichimaro/github-pages-with-jekyll/pull/4) in [senichimaro/github-pages-with-jekyll](https://github.com/senichimaro/github-pages-with-jekyll)
 <!--END_SECTION:activity-->
 
 
